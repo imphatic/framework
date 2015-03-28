@@ -1,6 +1,9 @@
 # framework
 Framework is a SQL DBMS that makes mySQL communication faster, lighter, and easier.
 
+### Author
+Garrett R. Davis
+
 ### Install
 
 Download into your project and include framework.php 
